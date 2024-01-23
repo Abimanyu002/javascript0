@@ -1,0 +1,34 @@
+#countlabel{
+    color:rgb(130, 206, 241);
+    display:block;
+    text-align:center;
+    font-size:10em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#buttonContainer{
+    display:block;
+    text-align:center;
+
+}
+.buttons{
+    padding:5px 50px;
+    font-size:01em;
+    color:rgb(255, 255, 255);
+    background-color:rgb(70, 206, 183);
+    border-radius:15px;
+    border-color: rgb(94, 177, 166);
+    cursor:pointer;
+    transition:background-color 0.75s;
+}
+.buttons:hover{
+    background-color:rgb(158, 253, 222)
+}
+#themebutton{
+    display:block;
+    text-align:center;
+}
+#theme{
+    border-radius:40px;
+    color:white;
+    background-color:dimgrey;
+}

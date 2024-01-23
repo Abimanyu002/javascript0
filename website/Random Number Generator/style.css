@@ -1,0 +1,25 @@
+body{
+    background-color:grey;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#but{
+    font-size:2em;
+    border-radius: 45px;
+    background-color: rgb(221, 220, 220);
+    color:rgb(204, 204, 204);
+    border-bottom-color: black;
+    border-top-color: rgb(255, 255, 255);
+    border-right-color:antiquewhite;
+    border-left-color: antiquewhite;
+    padding: 20px;
+}
+.labs{
+    font-size: 6em;
+    color:rgb(255, 255, 255)
+}
+#lab{
+    display:block;
+    background-color:rgb(206, 206, 206);
+    padding:5px 50px;
+}
